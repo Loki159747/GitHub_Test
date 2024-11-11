@@ -2,7 +2,7 @@
 int a = 10'
 int main() {
   printf("HELLO");
-  printf("%d",a);
+  printf("%d -%d ",a);
   return0;
 }
   
